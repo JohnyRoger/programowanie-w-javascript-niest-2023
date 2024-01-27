@@ -20,5 +20,5 @@ Pamiętasz notekeep? Użyj ponownie części swojego kodu do tego ćwiczenia.
 ### Przydamisie:
 Do pobrania danych pogodowych mozesz wykorzystac serwis openweathermap  
 ikony:  https://openweathermap.org/weather-conditions
-Przykładowe Api miast: http://geodb-cities-api.wirefreethought.com/demo  
+Przykładowe Api miast: Google Places API, http://geodb-cities-api.wirefreethought.com/demo  
 Wykresy: Chart.js, D3.js
